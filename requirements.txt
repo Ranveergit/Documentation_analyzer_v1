@@ -1,0 +1,10 @@
+python-dotenv
+streamlit
+beautifulsoup4
+selenium
+webdriver-manager
+requests
+textstat
+openai
+
+
