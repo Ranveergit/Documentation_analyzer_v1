@@ -150,12 +150,12 @@ URL2: https://help.moengage.com/hc/en-us/articles/360042322691-User-Attribute-Pr
 ---
 
 ### Image 2: sections of analysis : 
-![Overview Diagram](image_url2_output/Readability_for_marketer-1.png)
+![Overview Diagram](image_url2_output/analyzed_url_2_Readability_for_marketer-1.png)
 
 ---
 
 ### Image 3: analysis for readability for marketer 
-![Overview Diagram](image_url2_output/Readability_for_marketer-2.png)
+![Overview Diagram](image_url2_output/analyzed_url_2_Readability_for_marketer-2.png)
 
 ---
 
@@ -175,22 +175,22 @@ URL2: https://help.moengage.com/hc/en-us/articles/360042322691-User-Attribute-Pr
 ---
 
 ### Image 4d: sugession for improvement  of structure and flow analysis - part 2
-![Overview Diagram](analyzed_url_2_completeness_of_Information_And_examples-1.png)
+![Overview Diagram](image_url2_output/analyzed_url_2_completeness_of_Information_And_examples-1.png)
 
 ---
 
 ### Image 5: analysis of completeness of Information : 
-![Overview Diagram](analyzed_url_2_completeness_of_Information_And_examples-2.png)
+![Overview Diagram](image_url2_output/analyzed_url_2_completeness_of_Information_And_examples-2.png)
 
 ---
 
 ### Image 5b: analysis of completeness of Information  - part 2
-![Overview Diagram](image_url2_output/analyzed_url_2_style_guideline_Adherence-1w.png)
+![Overview Diagram](image_url2_output/image_url2_output/analyzed_url_2_style_guideline_Adherence-1w.png)
 
 ---
 
 ### Image 5c: analysis and suggestion for style guideline and adherence 
-![Overview Diagram](image_url2_output/analyzed_url_2_style_guideline_Adherence-2.png)
+![Overview Diagram](image_url2_output/image_url2_output/analyzed_url_2_style_guideline_Adherence-2.png)
 
 ---
 
