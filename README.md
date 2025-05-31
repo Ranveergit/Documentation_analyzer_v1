@@ -75,7 +75,67 @@ streamlit run main.py
 - **API Rate Limits**: Although not encountered during testing, extended usage should consider implementing caching, rate-limiting, or batching when calling the OpenAI API to stay within quota limits and improve performance.
 
 
-### example output 1. url : https://help.moengage.com/hc/en-us/articles/32665738201108-Android-Native-Integration-Validation#h_01JE5XC6AHFYQBV1HS49QP4M7J
+### example output 1:
+
+### Android Native Integration Documentation
+
+URL: https://help.moengage.com/hc/en-us/articles/32665738201108-Android-Native-Integration-Validation#h_01JE5XC6
+
+---
+
+### Image 1: Overview Diagram
+![Overview Diagram](image_url1_output/analyze_documentation_1.png)
+
+---
+
+### Image 2: sections of analysis : 
+![Integration Step 1](image_url1_output/analyze_documentation_2.png)
+
+---
+
+### Image 3: analysis for readability for marketer 
+![Integration Step 2](image_url1_output/analyze_documentation_3.png)
+
+---
+
+### Image 4a:  description of structure and flow analysis :
+![Configuration Example A](image_url1_output/analyze_documentation_4a.png)
+
+---
+
+### Image 4b: structure and flow analysis part 2 
+![Configuration Example B](image_url1_output/analyze_documentation_4b.png)
+
+---
+
+### Image 4c: sugession for improvement  of structure and flow analysis : 
+![Configuration Example C](image_url1_output/analyze_documentation_4c.png)
+
+---
+
+### Image 4d: sugession for improvement  of structure and flow analysis - part 2
+![Configuration Example D](image_url1_output/analyze_documentation_4d.png)
+
+---
+
+### Image 5: analysis of completeness of Information : 
+![Validation Screen](image_url1_output/analyze_documentation_5.png)
+
+---
+
+### Image 5b: analysis of completeness of Information  - part 2
+![Additional Validation Info](image_url1_output/analyze_documentation_5b.png)
+
+---
+
+### Image 5c: analysis and suggestion for style guideline and adherence 
+![More Validation Details](image_url1_output/analyze_documentation_5c.png)
+
+---
+
+### Image 6: analysis and suggestion for style guideline and adherence - part 2
+![Final Summary](image_url1_output/analyze_documentation_6.png)
+
 
 
 
