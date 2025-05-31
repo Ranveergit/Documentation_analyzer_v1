@@ -185,7 +185,7 @@ URL2: https://help.moengage.com/hc/en-us/articles/360042322691-User-Attribute-Pr
 ---
 
 ###  analysis of style guideline Adherence - part 1
-![Overview Diagram](image_url2_output/analyzed_url_2_style_guideline_Adherence-1w.png)
+![Overview Diagram](image_url2_output/analyzed_url_2_style_guideline_Adherence-1.png)
 
 ---
 
