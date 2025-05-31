@@ -165,12 +165,12 @@ URL2: https://help.moengage.com/hc/en-us/articles/360042322691-User-Attribute-Pr
 ---
 
 ### Image 4b: structure and flow analysis part 2 
-![Overview Diagram](image_url2_output/analyzed_url_2_structure_and_flow- suggestion_for_improvement_1.png)
+![Overview Diagram](image_url2_output/analyzed_url_2_structure_and_flow-suggestion_for_improvement_1.png)
 
 ---
 
 ### Image 4c: sugession for improvement  of structure and flow analysis : 
-![Overview Diagram](image_url2_output/analyzed_url_2_structure_and_flow- suggestion_for_improvement_2.png)
+![Overview Diagram](image_url2_output/analyzed_url_2_structure_and_flow-suggestion_for_improvement_2.png)
 
 ---
 
