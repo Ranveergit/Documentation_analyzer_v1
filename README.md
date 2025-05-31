@@ -140,62 +140,61 @@ URL: https://help.moengage.com/hc/en-us/articles/32665738201108-Android-Native-I
 
 ### example output 2:
 
-URL2: https://help.moengage.com/hc/en-us/articles/32665738201108-Android-Native-Integration-Validation#h_01JE5XC6
+URL2: https://help.moengage.com/hc/en-us/articles/360042322691-User-Attribute-Profile-Integration-Validation#what-do-we-want-to-validate--0-0
 
 ---
 
 ### Image 1: Overview Diagram
-![Overview Diagram](image_url1_output/analyze_documentation_1.png)
+![Overview Diagram](image_url2_output/analyzed_url_2_sections_view.png)
 
 ---
 
 ### Image 2: sections of analysis : 
-![Integration Step 1](image_url1_output/analyze_documentation_2.png)
+![Overview Diagram](image_url2_output/Readability_for_marketer-1.png)
 
 ---
 
 ### Image 3: analysis for readability for marketer 
-![Integration Step 2](image_url1_output/analyze_documentation_3.png)
+![Overview Diagram](image_url2_output/Readability_for_marketer-2.png)
 
 ---
 
 ### Image 4a:  description of structure and flow analysis :
-![Configuration Example A](image_url1_output/analyze_documentation_4a.png)
+![Overview Diagram](image_url2_output/analyzed_url_2_structure_and_flow-1.png)
 
 ---
 
 ### Image 4b: structure and flow analysis part 2 
-![Configuration Example B](image_url1_output/analyze_documentation_4b.png)
+![Overview Diagram](image_url2_output/analyzed_url_2_structure_and_flow-suggestion_for_improvement_1.png)
 
 ---
 
 ### Image 4c: sugession for improvement  of structure and flow analysis : 
-![Configuration Example C](image_url1_output/analyze_documentation_4c.png)
+![Overview Diagram](image_url2_output/analyzed_url_2_structure_and_flow-suggestion_for_improvement_2.png)
 
 ---
 
 ### Image 4d: sugession for improvement  of structure and flow analysis - part 2
-![Configuration Example D](image_url1_output/analyze_documentation_4d.png)
+![Overview Diagram](analyzed_url_2_completeness_of_Information_And_examples-1.png)
 
 ---
 
 ### Image 5: analysis of completeness of Information : 
-![Validation Screen](image_url1_output/analyze_documentation_5.png)
+![Overview Diagram](analyzed_url_2_completeness_of_Information_And_examples-2.png)
 
 ---
 
 ### Image 5b: analysis of completeness of Information  - part 2
-![Additional Validation Info](image_url1_output/analyze_documentation_5b.png)
+![Overview Diagram](image_url2_output/analyzed_url_2_style_guideline_Adherence-1w.png)
 
 ---
 
 ### Image 5c: analysis and suggestion for style guideline and adherence 
-![More Validation Details](image_url1_output/analyze_documentation_5c.png)
+![Overview Diagram](image_url2_output/analyzed_url_2_style_guideline_Adherence-2.png)
 
 ---
 
-### Image 6: analysis and suggestion for style guideline and adherence - part 2
-![Final Summary](image_url1_output/analyze_documentation_6.png)
+
 
 
 
