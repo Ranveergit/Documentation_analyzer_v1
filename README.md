@@ -185,12 +185,12 @@ URL2: https://help.moengage.com/hc/en-us/articles/360042322691-User-Attribute-Pr
 ---
 
 ### Image 5b: analysis of completeness of Information  - part 2
-![Overview Diagram](image_url2_output/image_url2_output/analyzed_url_2_style_guideline_Adherence-1w.png)
+![Overview Diagram](image_url2_output/analyzed_url_2_style_guideline_Adherence-1w.png)
 
 ---
 
 ### Image 5c: analysis and suggestion for style guideline and adherence 
-![Overview Diagram](image_url2_output/image_url2_output/analyzed_url_2_style_guideline_Adherence-2.png)
+![Overview Diagram](image_url2_output/analyzed_url_2_style_guideline_Adherence-2.png)
 
 ---
 
