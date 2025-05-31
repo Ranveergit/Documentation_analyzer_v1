@@ -11,7 +11,7 @@ Follow these steps to get the project up and running on your local machine:
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-link-here>
+git clone https://github.com/Ranveergit/Documentation_analyzer_v1.git
 cd your-repo-folder
 
 
