@@ -12,7 +12,7 @@ Follow these steps to get the project up and running on your local machine:
 
 ```bash
 git clone https://github.com/Ranveergit/Documentation_analyzer_v1.git
-cd your-repo-folder
+cd your-main-folder 
 
 
 ```
