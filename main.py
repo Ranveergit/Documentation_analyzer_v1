@@ -13,9 +13,9 @@ from webdriver_manager.chrome import ChromeDriverManager
 import time
 
 # --- Configuration ---
-# load_dotenv()
+load_dotenv()
 
-OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
+# OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
 
 # --- Helper Functions ---
 # def fetch_article_content(url: str) -> str:
