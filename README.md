@@ -81,57 +81,57 @@ URL: https://help.moengage.com/hc/en-us/articles/32665738201108-Android-Native-I
 
 ---
 
-### Image 1: Overview Diagram
+###  Overview Diagram
 ![Overview Diagram](image_url1_output/analyze_documentation_1.png)
 
 ---
 
-### Image 2: sections of analysis : 
+###  sections of analysis : 
 ![Integration Step 1](image_url1_output/analyze_documentation_2.png)
 
 ---
 
-### Image 3: analysis for readability for marketer 
+###  analysis for readability for marketer 
 ![Integration Step 2](image_url1_output/analyze_documentation_3.png)
 
 ---
 
-### Image 4a:  description of structure and flow analysis :
+###   description of structure and flow analysis :
 ![Configuration Example A](image_url1_output/analyze_documentation_4a.png)
 
 ---
 
-### Image 4b: structure and flow analysis part 2 
+###  structure and flow analysis part 2 
 ![Configuration Example B](image_url1_output/analyze_documentation_4b.png)
 
 ---
 
-### Image 4c: sugession for improvement  of structure and flow analysis : 
+###  sugession for improvement  of structure and flow analysis : 
 ![Configuration Example C](image_url1_output/analyze_documentation_4c.png)
 
 ---
 
-### Image 4d: sugession for improvement  of structure and flow analysis - part 2
+###  sugession for improvement  of structure and flow analysis - part 2
 ![Configuration Example D](image_url1_output/analyze_documentation_4d.png)
 
 ---
 
-### Image 5: analysis of completeness of Information : 
+###  analysis of completeness of Information : 
 ![Validation Screen](image_url1_output/analyze_documentation_5.png)
 
 ---
 
-### Image 5b: analysis of completeness of Information  - part 2
+###  analysis of completeness of Information  - part 2
 ![Additional Validation Info](image_url1_output/analyze_documentation_5b.png)
 
 ---
 
-### Image 5c: analysis and suggestion for style guideline and adherence 
+###  analysis and suggestion for style guideline and adherence 
 ![More Validation Details](image_url1_output/analyze_documentation_5c.png)
 
 ---
 
-### Image 6: analysis and suggestion for style guideline and adherence - part 2
+###  analysis and suggestion for style guideline and adherence - part 2
 ![Final Summary](image_url1_output/analyze_documentation_6.png)
 
 
@@ -144,52 +144,52 @@ URL2: https://help.moengage.com/hc/en-us/articles/360042322691-User-Attribute-Pr
 
 ---
 
-### Image 1: Overview Diagram
+###  Overview Section Diagram
 ![Overview Diagram](image_url2_output/analyzed_url_2_sections_view.png)
 
 ---
 
-### Image 2: sections of analysis : 
+###  analysis Readability of marketer  : 
 ![Overview Diagram](image_url2_output/analyzed_url_2_Readability_for_marketer-1.png)
 
 ---
 
-### Image 3: analysis for readability for marketer 
+###  analysis for readability for marketer 
 ![Overview Diagram](image_url2_output/analyzed_url_2_Readability_for_marketer-2.png)
 
 ---
 
-### Image 4a:  description of structure and flow analysis :
+### Image 4a:  analysis of structure and flow analysis -1  :
 ![Overview Diagram](image_url2_output/analyzed_url_2_structure_and_flow-1.png)
 
 ---
 
-### Image 4b: structure and flow analysis part 2 
+###  analysis and suggestion for improvement of  structure and flow analysis - 1 :  
 ![Overview Diagram](image_url2_output/analyzed_url_2_structure_and_flow-suggestion_for_improvement_1.png)
 
 ---
 
-### Image 4c: sugession for improvement  of structure and flow analysis : 
+###  analysis and sugession for improvement  of structure and flow analysis - 2 : 
 ![Overview Diagram](image_url2_output/analyzed_url_2_structure_and_flow-suggestion_for_improvement_2.png)
 
 ---
 
-### Image 4d: sugession for improvement  of structure and flow analysis - part 2
+###  analysis of completeness of Information and examples - part 1:
 ![Overview Diagram](image_url2_output/analyzed_url_2_completeness_of_Information_And_examples-1.png)
 
 ---
 
-### Image 5: analysis of completeness of Information : 
+###  analysis of completeness of Information and examples - part 2:
 ![Overview Diagram](image_url2_output/analyzed_url_2_completeness_of_Information_And_examples-2.png)
 
 ---
 
-### Image 5b: analysis of completeness of Information  - part 2
+###  analysis of style guideline Adherence - part 1
 ![Overview Diagram](image_url2_output/analyzed_url_2_style_guideline_Adherence-1w.png)
 
 ---
 
-### Image 5c: analysis and suggestion for style guideline and adherence 
+###  analysis of style guideline Adherence - part 2 
 ![Overview Diagram](image_url2_output/analyzed_url_2_style_guideline_Adherence-2.png)
 
 ---
